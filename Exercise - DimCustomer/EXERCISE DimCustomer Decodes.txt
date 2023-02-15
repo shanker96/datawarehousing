@@ -1,0 +1,5 @@
+EmailRequest
+EmailPromotion == 0 ? "No Email" : EmailPromotion == 1 ? "Adventure Works Only" : EmailPromotion == 2 ? "Adventure Works & Partners" : "Unknown"
+
+CustomerType
+PersonType == "SC" ? "Store Contact" : PersonType == "IN" ? "Individual Customer" : PersonType == "SP" ? "Sales Person" : PersonType == "EM" ? "Employee" : PersonType == "GC" ? "General Contact" : "Unknown"
