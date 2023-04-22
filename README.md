@@ -10,3 +10,4 @@ Next, I evaluated the capabilities of the BI platform and optimized ETL pipeline
 
 Finally, tuned data processes to ensure efficient data processing and publish the ETL optimization. The end result was a more efficient and effective data management system that reduced manual work by 23% and cut development time by 41%.
 
+Overall, the project was successful in improving the efficiency and effectiveness of data management processes by implementing a self-service data query system, analyzing the capabilities of a BI platform, and automating ETL pipelines. The use of Azure data factory and reusable components was critical in achieving the project's objectives.
