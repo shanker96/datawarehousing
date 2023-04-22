@@ -1,4 +1,4 @@
-# datawarehousing
+# Datawarehousing
 
 The objective of this project was to improve the efficiency and effectiveness of data management processes by implementing a self-service data query system, analyzing the capabilities of a BI platform, and automating ETL pipelines.
 
